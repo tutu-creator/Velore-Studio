@@ -1,0 +1,136 @@
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/appsettings.Development.json
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/appsettings.json
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Velore Studio.staticwebassets.runtime.json
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Velore Studio
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Velore Studio.deps.json
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Velore Studio.runtimeconfig.json
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Velore Studio.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Velore Studio.pdb
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Azure.Core.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Azure.Identity.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Humanizer.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.CodeDom.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.csproj.AssemblyReference.cache
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.AssemblyInfoInputs.cache
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.AssemblyInfo.cs
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.csproj.CoreCompileInputs.cache
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.MvcApplicationPartsAssemblyInfo.cache
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.RazorAssemblyInfo.cache
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.RazorAssemblyInfo.cs
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/staticwebassets.build.json
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/staticwebassets.development.json
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/staticwebassets/msbuild.Velore Studio.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/staticwebassets/msbuild.build.Velore Studio.props
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Velore Studio.props
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Velore Studio.props
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/scopedcss/bundle/Velore Studio.styles.css
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/scopedcss/projectbundle/Velore Studio.bundle.scp.css
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore S.A67E44EC.Up2Date
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/refint/Velore Studio.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.pdb
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.genruntimeconfig.cache
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/ref/Velore Studio.dll

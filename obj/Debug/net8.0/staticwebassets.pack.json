@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/scopedcss/projectbundle/Velore Studio.bundle.scp.css",
+      "PackagePath": "staticwebassets/Velore Studio.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/about-intro.jpg",
+      "PackagePath": "staticwebassets/assets/about-intro.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/avatar-1.jpg",
+      "PackagePath": "staticwebassets/assets/avatar-1.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/avatar-2.jpg",
+      "PackagePath": "staticwebassets/assets/avatar-2.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/avatar-3.jpg",
+      "PackagePath": "staticwebassets/assets/avatar-3.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/hero.jpg",
+      "PackagePath": "staticwebassets/assets/hero.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/phil-1.jpg",
+      "PackagePath": "staticwebassets/assets/phil-1.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/phil-2.jpg",
+      "PackagePath": "staticwebassets/assets/phil-2.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/project-1.jpg",
+      "PackagePath": "staticwebassets/assets/project-1.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/project-2.jpg",
+      "PackagePath": "staticwebassets/assets/project-2.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/project-3.jpg",
+      "PackagePath": "staticwebassets/assets/project-3.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/project-4.jpg",
+      "PackagePath": "staticwebassets/assets/project-4.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/project-5.jpg",
+      "PackagePath": "staticwebassets/assets/project-5.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/project-6.jpg",
+      "PackagePath": "staticwebassets/assets/project-6.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/team-1.jpg",
+      "PackagePath": "staticwebassets/assets/team-1.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/team-2.jpg",
+      "PackagePath": "staticwebassets/assets/team-2.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/assets/team-3.jpg",
+      "PackagePath": "staticwebassets/assets/team-3.jpg"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/main.js",
+      "PackagePath": "staticwebassets/main.js"
+    },
+    {
+      "Id": "/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/wwwroot/style.css",
+      "PackagePath": "staticwebassets/style.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Velore Studio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Velore Studio.props",
+      "PackagePath": "build\\Velore Studio.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Velore Studio.props",
+      "PackagePath": "buildMultiTargeting\\Velore Studio.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Velore Studio.props",
+      "PackagePath": "buildTransitive\\Velore Studio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
