@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Velore_Studio.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Velore_Studio.Controllers;
 
@@ -15,8 +16,18 @@ public class HomeController : Controller
         _context = context;
     }   
 
-    public IActionResult Index()
+    public async Task<IActionResult> Index()
     {
+        var projects = await _context.Projects
+            .Where(p => p.IsFeatured)
+            .Take(2)
+            .ToListAsync();
+    
+        var testimonials = await _context.Testimonials.ToListAsync();
+    
+        ViewBag.Projects = projects;
+        ViewBag.Testimonials = testimonials;
+    
         return View();
     }
 
@@ -25,8 +36,10 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Portfolio()
+    public async Task<IActionResult> Portfolio()
     {
+        var projects = await _context.Projects.OrderByDescending(p => p.CreatedAt).ToListAsync();
+        ViewBag.Projects = projects;
         return View();
     }
 
@@ -36,15 +49,12 @@ public class HomeController : Controller
     }
     
     [HttpPost]
-    public async Task<IActionResult> SendMessage(ContactMessage message)
+    public async Task<IActionResult> SendMessage(ContactMessage formMessage)
     {
+        _context.ContactMessages.Add(formMessage);
+        await _context.SaveChangesAsync();
+        return RedirectToAction("Contact");
      
-        {
-            _context.ContactMessages.Add(message);
-            await _context.SaveChangesAsync();
-            return RedirectToAction("Contact");
-        }
-        return View("Contact");
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

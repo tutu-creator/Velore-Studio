@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', () => {
         portfolioItems.forEach(item => {
           const itemCategory = item.getAttribute('data-category');
 
-          if (filterValue === 'all' || itemCategory === filterValue) {
+          if (filterValue === 'all' || itemCategory.includes(filterValue)) {
             item.style.display = 'block';
             setTimeout(() => {
               item.style.opacity = '1';

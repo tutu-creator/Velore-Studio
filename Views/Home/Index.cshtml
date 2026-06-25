@@ -88,24 +88,18 @@
             <h2>Seçilmiş Layihələr</h2>
         </div>
         <div class="portfolio-grid" style="margin-bottom: 4rem;">
-            <a href="/Home/Portfolio" class="portfolio-item">
-                <div class="portfolio-img-box">
-                    <img src="~/assets/project-1.jpg" alt="Minimalist Modern Hamam Dizaynı">
-                </div>
-                <div class="portfolio-info">
-                    <div class="portfolio-cat">Interyer</div>
-                    <h3>Baku Residence — Minimalist Banyo</h3>
-                </div>
-            </a>
-            <a href="/Home/Portfolio" class="portfolio-item">
-                <div class="portfolio-img-box">
-                    <img src="~/assets/project-2.jpg" alt="Zərif İsti Mətbəx Dizaynı">
-                </div>
-                <div class="portfolio-info">
-                    <div class="portfolio-cat">Interyer</div>
-                    <h3>Clay & Oak Mətbəx Konsepti</h3>
-                </div>
-            </a>
+            @foreach (var project in ViewBag.Projects)
+            {
+                <a href="/Home/Portfolio" class="portfolio-item">
+                    <div class="portfolio-img-box">
+                        <img src="@project.Image" alt="@project.Title">
+                    </div>
+                    <div class="portfolio-info">
+                        <div class="portfolio-cat">@project.Category</div>
+                        <h3>@project.Title</h3>
+                    </div>
+                </a>
+            }
         </div>
         <div style="text-align: center;">
             <a href="/Home/Portfolio" class="btn btn-outline">Bütün Portfolioya Bax</a>
@@ -122,48 +116,23 @@
         </div>
         <div class="slider-container">
             <div class="testimonials-slider">
-                <div class="testimonial-slide active">
-                    <div class="testimonial-quote">
-                        "Velore Studio ilə işləmək bizim üçün inanılmaz bir təcrübə idi. Mənzilimizin dizaynında istifadə etdikləri rənglər və işıq oyunları evimizi tamamilə dəyişdirdi. Hər gün evə gələndə dinclik tapırıq."
-                    </div>
-                    <div class="testimonial-author">
-                        <div class="author-img">
-                            <img src="~/assets/avatar-1.jpg" alt="Leyla Məmmədova">
+                @foreach (var testimonial in ViewBag.Testimonials)
+                {
+                    <div class="testimonial-slide">
+                        <div class="testimonial-quote">
+                            "@testimonial.Message"
                         </div>
-                        <div class="author-info">
-                            <h4>Leyla Məmmədova</h4>
-                            <p>Baku Residence Sahibi</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="testimonial-slide">
-                    <div class="testimonial-quote">
-                        "Yeni açdığımız minimalist kafenin həm brendinqini, həm də interyerini Velore Studio-ya həvalə etdik. Müştərilərimizdən hər gün dizayn haqqında xoş sözlər eşidirik. Peşəkar və gülərüz komandadır!"
-                    </div>
-                    <div class="testimonial-author">
-                        <div class="author-img">
-                            <img src="~/assets/avatar-2.jpg" alt="Fərid Əliyev">
-                        </div>
-                        <div class="author-info">
-                            <h4>Fərid Əliyev</h4>
-                            <p>"Clay & Oak" Kafesinin Təsisçisi</p>
+                        <div class="testimonial-author">
+                            <div class="author-img">
+                                <img src="@testimonial.Image" alt="@testimonial.Name">
+                            </div>
+                            <div class="author-info">
+                                <h4>@testimonial.Name</h4>
+                                <p>@testimonial.Role</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="testimonial-slide">
-                    <div class="testimonial-quote">
-                        "İş fəlsəfələrinə və detallara olan diqqətlərinə heyran qaldım. Təmir prosesində göstərdikləri müəllif nəzarəti sayəsində hər şey tam çertyojdakı kimi həyata keçirildi. Hər kəsə tövsiyə edirəm."
-                    </div>
-                    <div class="testimonial-author">
-                        <div class="author-img">
-                            <img src="~/assets/avatar-3.jpg" alt="Nigar Həsənova">
-                        </div>
-                        <div class="author-info">
-                            <h4>Nigar Həsənova</h4>
-                            <p>Müstəqil Layihə Rəhbəri</p>
-                        </div>
-                    </div>
-                </div>
+                }
             </div>
             <div class="slider-controls">
                 <button class="slider-btn prev" aria-label="Əvvəlki rəy" id="slider-btn-prev">

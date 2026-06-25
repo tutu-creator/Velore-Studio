@@ -16,70 +16,23 @@
     <div class="container">
         <div class="portfolio-filters">
             <button class="filter-btn active" data-filter="all" id="filter-all">Hamısı</button>
-            <button class="filter-btn" data-filter="interyer" id="filter-interyer">Interyer</button>
-            <button class="filter-btn" data-filter="brendinq" id="filter-brendinq">Brendinq</button>
+            <button class="filter-btn" data-filter="İnteryer" id="filter-interyer">Interyer</button>
+            <button class="filter-btn" data-filter="Brendinq" id="filter-brendinq">Brendinq</button>
         </div>
 
         <div class="portfolio-grid" id="projects-container">
-            <div class="portfolio-item" data-category="interyer">
-                <div class="portfolio-img-box">
-                    <img src="~/assets/project-1.jpg" alt="Baku Residence - Minimalist Banyo">
+            @foreach (var project in ViewBag.Projects)
+            {
+                <div class="portfolio-item" data-category="@project.Category">
+                    <div class="portfolio-img-box">
+                        <img src="@project.Image" alt="@project.Title">
+                    </div>
+                    <div class="portfolio-info">
+                        <div class="portfolio-cat">@project.Category</div>
+                        <h3>@project.Title</h3>
+                    </div>
                 </div>
-                <div class="portfolio-info">
-                    <div class="portfolio-cat">Interyer</div>
-                    <h3>Baku Residence — Minimalist Banyo</h3>
-                </div>
-            </div>
-
-            <div class="portfolio-item" data-category="interyer">
-                <div class="portfolio-img-box">
-                    <img src="~/assets/project-2.jpg" alt="Clay & Oak Mətbəx Konsepti">
-                </div>
-                <div class="portfolio-info">
-                    <div class="portfolio-cat">Interyer</div>
-                    <h3>Clay & Oak Mətbəx Konsepti</h3>
-                </div>
-            </div>
-
-            <div class="portfolio-item" data-category="interyer">
-                <div class="portfolio-img-box">
-                    <img src="~/assets/project-3.jpg" alt="Sage Lounge — Kafe interyeri">
-                </div>
-                <div class="portfolio-info">
-                    <div class="portfolio-cat">Interyer</div>
-                    <h3>Sage Lounge — Kafe interyeri</h3>
-                </div>
-            </div>
-
-            <div class="portfolio-item" data-category="brendinq">
-                <div class="portfolio-img-box">
-                    <img src="~/assets/project-4.jpg" alt="Aura Studio — Korporativ Brendinq">
-                </div>
-                <div class="portfolio-info">
-                    <div class="portfolio-cat">Brendinq</div>
-                    <h3>Aura Studio — Vizual Kimlik</h3>
-                </div>
-            </div>
-
-            <div class="portfolio-item" data-category="interyer">
-                <div class="portfolio-img-box">
-                    <img src="~/assets/project-5.jpg" alt="Warm Linen — Yataq otağı konsepti">
-                </div>
-                <div class="portfolio-info">
-                    <div class="portfolio-cat">Interyer</div>
-                    <h3>Warm Linen — Yataq Otağı</h3>
-                </div>
-            </div>
-
-            <div class="portfolio-item" data-category="brendinq">
-                <div class="portfolio-img-box">
-                    <img src="~/assets/project-6.jpg" alt="Terra Pottery — Loqo & Qablaşdırma">
-                </div>
-                <div class="portfolio-info">
-                    <div class="portfolio-cat">Brendinq</div>
-                    <h3>Terra Pottery — Qablaşdırma & Loqo</h3>
-                </div>
-            </div>
+            }
         </div>
     </div>
 </section>

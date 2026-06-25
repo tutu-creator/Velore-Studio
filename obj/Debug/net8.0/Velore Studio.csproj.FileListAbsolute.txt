@@ -134,3 +134,4 @@
 /Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.pdb
 /Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.genruntimeconfig.cache
 /Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/ref/Velore Studio.dll
+/Users/tutumehbaliyeva/RiderProjects/Velore Studio/Velore Studio/obj/Debug/net8.0/Velore Studio.sourcelink.json

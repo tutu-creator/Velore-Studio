@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Velore Studio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1f278f64d4dbc9707dc9b016a078300f01a67b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Velore Studio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Velore Studio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
